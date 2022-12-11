@@ -110,7 +110,7 @@ global.bottime = `⻝ W A K T U : ${wktuwib}`
 global.titlebot = `DarkBot | ʙʏ ${global.nameown}`
 global.author = 'Dark' 
 global.packname = 'By Dark'
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
+global.danied = '✘ 𝗘𝗥𝗢𝗥 COK'
 global.ultahowner = 'Mei 24 2023' //Ganti Ultah Lu Disini
 
 
@@ -146,8 +146,8 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fsizedoc = '0' // default 10TB
+global.fpagedoc = '547710'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
